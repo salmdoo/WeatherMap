@@ -20,6 +20,11 @@ Using UIKit or SwiftUI, shoot for adding the following functionality:
 * Add a UI element that toggles between today’s and tomorrow’s station data data.
 * Add a callout view with station/condition details when tapping on a station.
 
+### Screenshots
+| | | |
+|----------|----------|----------|
+| <kbd>![Untitled](https://github.com/user-attachments/assets/0b2ac233-b18a-496e-8c5d-01eb58cab822)</kbd> | <kbd>![Station details](https://github.com/user-attachments/assets/0599dfc4-ed17-4ba0-8925-150b3a138d13)</kbd> | <kbd>![Offline access](https://github.com/user-attachments/assets/86ffdff3-ed31-4851-99bc-2f3ba31ef687)</kbd> |
+
 ---
 
 ## Main Features
